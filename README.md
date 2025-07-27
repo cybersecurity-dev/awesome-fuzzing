@@ -11,6 +11,9 @@
 
 **Fuzzing** (**_or fuzz testing_**) is a software testing technique that involves providing unexpected, invalid, or random data (also known as "**fuzz**") as input to a program to identify potential bugs, **_security [vulnerabilities](https://github.com/cybersecurity-dev/awesome-vulnerability-research)_**, and crashes.
 
+## Tools
+* [AFL++](https://github.com/AFLplusplus/AFLplusplus) - The fuzzer [afl++](https://aflplus.plus/) is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more!
+
 ## Resources
 
 ### Tutorial
