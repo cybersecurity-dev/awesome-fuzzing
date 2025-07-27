@@ -10,3 +10,8 @@
 </p>
 
 **Fuzzing** (**_or fuzz testing_**) is a software testing technique that involves providing unexpected, invalid, or random data (also known as "**fuzz**") as input to a program to identify potential bugs, **_security [vulnerabilities](https://github.com/cybersecurity-dev/awesome-vulnerability-research)_**, and crashes.
+
+## Resources
+
+### Tutorial
+* [Fuzzing101](https://github.com/antonio-morales/Fuzzing101) - An step by step fuzzing tutorial. A [GitHub Security Lab](https://securitylab.github.com/) initiative
