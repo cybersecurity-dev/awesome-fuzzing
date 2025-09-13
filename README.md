@@ -9,6 +9,16 @@
     <img src="https://github.com/cybersecurity-dev/cybersecurity-dev/blob/main/assets/bar.gif">
 </p>
 
+## 📖 Contents
+- [Code Analysis](#code-analysis)
+- [Tools](#tools)
+- [Resources](#resources)
+    - [Tutorial](#tutorial) 
+- [My Other Awesome Lists](#my-other-awesome-lists)
+- [Contributing](#contributing)
+- [Contributors](#contributors)
+- 
+
 **Fuzzing** (**_or fuzz testing_**) is a software testing technique that involves providing unexpected, invalid, or random data (also known as "**fuzz**") as input to a program to identify potential bugs, **_security [vulnerabilities](https://github.com/cybersecurity-dev/awesome-vulnerability-research)_**, and crashes.
 
 ## Code Analysis
@@ -24,3 +34,14 @@
 
 ### Tutorial
 * [Fuzzing101](https://github.com/antonio-morales/Fuzzing101) - An step by step fuzzing tutorial. A [GitHub Security Lab](https://securitylab.github.com/) initiative
+
+### My Other Awesome Lists
+You can access the my other awesome lists [here](https://cyberthreatdefence.com/my_awesome_lists)
+
+### Contributing
+[Contributions of any kind welcome, just follow the guidelines](contributing.md)!
+
+### Contributors
+[Thanks goes to these contributors](https://github.com/cybersecurity-dev/awesome-fuzzing/graphs/contributors)!
+
+[🔼 Back to top](#awesome-fuzzing-)
