@@ -1,5 +1,10 @@
-# Awesome [Fuzzing](https://en.wikipedia.org/wiki/Fuzzing) [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://youtube.com/playlist?list=PL9V4Zu3RroiV_R_JO1M6qe51oOu55RZaS&si=-vPkad3dFEA-3OxO) [![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/r/fuzzing/)
+<div align="center">
+    
+# **`Awesome`** [Fuzzing](https://wikipedia.org/wiki/Fuzzing) [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+</div>
+
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://youtube.com/playlist?list=PL9V4Zu3RroiV_R_JO1M6qe51oOu55RZaS&si=-vPkad3dFEA-3OxO)
+[![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/r/fuzzing/)
 <p align="center">
     <a href="https://github.com/cybersecurity-dev/"><img height="25" src="https://github.com/cybersecurity-dev/cybersecurity-dev/blob/main/assets/github.svg" alt="GitHub"></a>
     &nbsp;
